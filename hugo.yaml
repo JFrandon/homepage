@@ -1,0 +1,42 @@
+baseurl: "https://jeremy.frandon.net/"  # please update this to your actual URL
+languageCode: "mul"
+title: "Jeremy Frandon's Homepage"
+theme: "xmin"
+googleAnalytics: ""
+disqusShortname: ""
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
+footnotereturnlinkcontents: "↩"
+
+permalinks:
+  note: "/note/:year/:month/:day/:slug/"
+  post: "/post/:year/:month/:day/:slug/"
+
+menu:
+  main:
+    - name: Home
+      url: ""
+    - name: Subscribe
+      url: "index.xml"
+
+params:
+  description: "I'll figure it out"
+  footer: "&copy; [Jeremy Frandon](https://jeremy.frandon.net) 2024 -- {Year} | [Github](https://github.com/JFrandon) "
+
+markup:
+  highlight:
+    codeFences: false
+  goldmark:
+    renderer:
+      unsafe: true
+    extensions:
+      passthrough:
+        enable: true
+        delimiters:
+          block:
+          - - \[
+            - \]
+          - - $$
+            - $$
+          inline:
+          - - \(
+            - \)

@@ -1,4 +1,0 @@
-baseURL = 'https://jeremy.frandon.net/'
-languageCode = 'mul'
-title = "Jeremy Frandon's homepage"
-theme = 'hugo-simple'
