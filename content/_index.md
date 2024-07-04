@@ -6,13 +6,28 @@ layout = "main"
 +++
 
 # Jeremy Frandon's homepage
+
+Thanks for checking in. As of writing I'm feeling *overwhelmed*.
+
 ## Welcome
 
-There's not much here for now.  
-You can check my [poems](/poems) in the meantime.
+This is the place I'm gonna digitalize my physical notes to.  
+This website is provided "as is", without warranties of any kind.
+Expect no consistency, purpose, nor accuracy.
+Expect content in multiple languages (mostly English and French).
 
-## Things to be posted later
+## Things being posted
 
-Explainer on old projects such as:
+I am uploading my commonplace notebook.  
+**Progress:** *2/20* Pages Uploaded.
+- [Litanies](/litanies)
+- [Maths proofs](/maths)
+
+I am also uploading [poems](/poems).  
+**Progress:** *4/??* Poems Uploaded.
+
+## Things live elsewhere
+
+Some of my old projects are floating on the interwebs:
   - [Time since the last HI episode](https://hi-api.warts.workers.dev/)
   - [Art of war quote generator](https://distraction.warts.workers.dev/)

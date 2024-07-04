@@ -15,6 +15,12 @@ menu:
   main:
     - name: Home
       url: ""
+    - name: Poems
+      url: "/poems"
+    - name: Litanies
+      url: "/litanies"
+    - name: Maths
+      url: "/maths"
     - name: Subscribe
       url: "index.xml"
 
