@@ -21,6 +21,7 @@ menu:
 params:
   description: "I'll figure it out"
   footer: "&copy; [Jeremy Frandon](https://jeremy.frandon.net) 2024 -- {Year} | [Github](https://github.com/JFrandon) "
+  math: true
 
 markup:
   highlight:
