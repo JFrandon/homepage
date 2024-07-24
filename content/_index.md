@@ -12,9 +12,9 @@ Thanks for checking in. As of writing I'm feeling *whelmed*.
 ## Welcome
 
 This is the place I'm gonna digitalize my physical notes to.  
-This website is provided "as is", without warranties of any kind.
-Expect no consistency, purpose, nor accuracy.
-Expect content in multiple languages (mostly English and French).
+This website is provided "as is", without warranties of any kind.  
+Expect no consistency, purpose, nor accuracy.  
+Expect content in multiple languages (mostly English and French).  
 
 ## Things being posted
 
