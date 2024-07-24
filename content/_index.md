@@ -7,7 +7,7 @@ layout = "main"
 
 # Jeremy Frandon's homepage
 
-Thanks for checking in. As of writing I'm feeling *overwhelmed*.
+Thanks for checking in. As of writing I'm feeling *whelmed*.
 
 ## Welcome
 
