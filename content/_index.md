@@ -26,8 +26,12 @@ I am uploading my commonplace notebook.
 I am also uploading [poems](/poems).  
 **Progress:** *4/??* Poems Uploaded.
 
-## Things live elsewhere
+## Things living elsewhere
 
 Some of my old projects are floating on the interwebs:
   - [Time since the last HI episode](https://hi-api.warts.workers.dev/)
   - [Art of war quote generator](https://distraction.warts.workers.dev/)
+
+## Links to be sorted
+[Paul Perley Cellos](http://www.paulperleycellos.com/the-cellist)
+
