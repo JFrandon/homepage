@@ -7,7 +7,7 @@ layout = "main"
 
 # Jeremy Frandon's homepage
 
-Thanks for checking in. As of writing I'm feeling *whelmed*.
+Thanks for checking in. As of writing I'm feeling *distraught*.
 
 ## Welcome
 
@@ -33,5 +33,5 @@ Some of my old projects are floating on the interwebs:
   - [Art of war quote generator](https://distraction.warts.workers.dev/)
 
 ## Links to be sorted
-[Paul Perley Cellos](http://www.paulperleycellos.com/the-cellist)
-
+ -  [Paul Perley Cellos](http://www.paulperleycellos.com/the-cellist)
+ -  [Kim Diaz Holm](https://denungeherrholm.com)
