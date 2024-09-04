@@ -7,7 +7,7 @@ layout = "main"
 
 # Jeremy Frandon's homepage
 
-Thanks for checking in. As of writing I'm feeling *distraught*.
+Thanks for checking in. As of writing I'm feeling *content*.
 
 ## Welcome
 
@@ -24,7 +24,7 @@ I am uploading my commonplace notebook.
 - [Maths proofs](/maths)
 
 I am also uploading [poems](/poems).  
-**Progress:** *4/??* Poems Uploaded.
+**Progress:** *12/??* Poems Uploaded.
 
 ## Things living elsewhere
 
