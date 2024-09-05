@@ -11,7 +11,7 @@ Words on a page
 Plane in the sky
 
 Letting go of exectations  
-Expecting an imporvement
+Expecting an improvement
 
 A notebook in front of Montreal  
 An affront to myself
