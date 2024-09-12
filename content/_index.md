@@ -18,13 +18,14 @@ Expect content in multiple languages (mostly English and French).
 
 ## Things being posted
 
-I am uploading my commonplace notebook.  
-**Progress:** *2/20* Pages Uploaded.
+Right now the main things you'll see updated are my [poems](/poems).  
+Be warned about their dubious quality.
+
+I am uploading notes from various notebooks.  
+I'll try to get the sections organized 
 - [Litanies](/litanies)
 - [Maths proofs](/maths)
 
-I am also uploading [poems](/poems).  
-**Progress:** *12/??* Poems Uploaded.
 
 ## Things living elsewhere
 
@@ -32,6 +33,7 @@ Some of my old projects are floating on the interwebs:
   - [Time since the last HI episode](https://hi-api.warts.workers.dev/)
   - [Art of war quote generator](https://distraction.warts.workers.dev/)
 
-## Links to be sorted
+## Links to other people's interesting projects 
  -  [Paul Perley Cellos](http://www.paulperleycellos.com/the-cellist)
  -  [Kim Diaz Holm](https://denungeherrholm.com)
+ -  [XKCD](https://m.xkcd.com/1053/)
